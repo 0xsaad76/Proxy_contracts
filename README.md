@@ -59,7 +59,7 @@ To verify the proxy contract, run:
 npx hardhat verify --network sepolia <YOUR_CONTRACT_ADDRESS>
 ```
 
-Replace `<YOUR_CONTRACT_ADDRESS>` with the proxy address.
+Replace your `<YOUR_CONTRACT_ADDRESS>` with the proxy address.
 
 ---
 
