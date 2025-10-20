@@ -2,7 +2,7 @@
 
 This guide explains how to deploy a proxy contract using OpenZeppelin's upgradeable contract framework, Hardhat, and Alchemy on the Ethereum Sepolia network.
 
----
+------
 
 ## Prerequisites
 
